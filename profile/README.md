@@ -17,10 +17,10 @@ Strix is built for engineers and security teams who want:
 
 ## Support & Community
 - GitHub Issues: https://github.com/usestrix/strix/issues  
-- Discord: https://discord.gg/YjKFvEZSdZ  
+- Discord: https://discord.gg/strix-ai  
 
 <h3 align="left">
-  <a href="https://discord.gg/YjKFvEZSdZ"><img src="https://github.com/usestrix/.github/raw/main/imgs/Discord.png" height="40" alt="Join Discord"></a>
+  <a href="https://discord.gg/strix-ai"><img src="https://github.com/usestrix/.github/raw/main/imgs/Discord.png" height="40" alt="Join Discord"></a>
   <a href="https://x.com/strix_ai"><img src="https://github.com/usestrix/.github/raw/main/imgs/X.png" height="40" alt="Follow on X"></a>
 </h3>
 
